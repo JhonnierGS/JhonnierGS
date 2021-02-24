@@ -1,5 +1,8 @@
 ![perfil](https://user-images.githubusercontent.com/64991337/108932024-a7b5ce00-7616-11eb-9fd9-43a9cc73d0e0.png)
-|                   Hi there 👋             |
+<h1 align="center">¡Hey 👋!, Soy JhonnierGS👨‍💻</h1>
+<h3 align="center">Soy <strong>Desarrollador Front-End</strong></h3>
+<p align="center">¡Puedes seguirme en! 👇</p>
+
 
 <!--
 **JhonnierGS/JhonnierGS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
