@@ -1,7 +1,14 @@
 ![perfil](https://user-images.githubusercontent.com/64991337/108932024-a7b5ce00-7616-11eb-9fd9-43a9cc73d0e0.png)
 <h1 align="center">¡Hey 👋!, Soy JhonnierGS👨‍💻</h1>
-<h3 align="center">Soy <strong>Desarrollador Front-End</strong></h3>
+<h3 align="center">Soy <b>Desarrollador Front-End</b></h3>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/64991337/108940376-3deef180-7621-11eb-866f-60d68ee66dbc.gif" width="50px" height="70px">
+</p>
 <p align="center">¡Puedes seguirme en! 👇</p>
+
+
+
+
 
 
 <!--
