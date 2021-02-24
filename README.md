@@ -1,5 +1,5 @@
 <p>
-  <img src="https://user-images.githubusercontent.com/64991337/109061862-311bdd80-76b5-11eb-89ad-e6872dfa8f3b.gif">
+  <img src="https://user-images.githubusercontent.com/64991337/109062875-7f7dac00-76b6-11eb-8d2b-bc008e2ee861.gif">
  </p> 
 <h1 align="center">¡Hey 👋!, Soy JhonnierGS👨‍💻</h1>
 <h3 align="center">Soy <b>Desarrollador Front-End</b></h3>
