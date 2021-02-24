@@ -1,4 +1,6 @@
-![perfil](https://user-images.githubusercontent.com/64991337/108932024-a7b5ce00-7616-11eb-9fd9-43a9cc73d0e0.png)
+<p>
+  <img src="https://user-images.githubusercontent.com/64991337/109061862-311bdd80-76b5-11eb-89ad-e6872dfa8f3b.gif">
+ </p> 
 <h1 align="center">¡Hey 👋!, Soy JhonnierGS👨‍💻</h1>
 <h3 align="center">Soy <b>Desarrollador Front-End</b></h3>
 <p align="center">
