@@ -12,7 +12,27 @@
 <a href="https://www.linkedin.com/in/jonathan-andres-gonzalez-saenz-/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jonathan-andres-gonzalez-saenz-/" height="30" width="40" /></a>
 </p>
 
+<h2>Un desarrollador frontend apasionado de Colombia</h2>
 
+- 🔭 Actualmente estoy trabajando en [Negocios de abogados](https://jhonniergs.github.io/Negocios-de-abogados/)
+
+- 🌱 Actualmente estoy aprendiendo **React.JS, Webpack, React Router y Redux**
+
+- 👯 Estoy buscando colaborar en **En algun proyecto que requiera de animaciones con CSS**
+
+- 🤝 Estoy buscando ayuda con **asincronismo en JS**
+
+- 👨‍💻 Todos mis proyectos están disponibles en [https://jhonniergs.github.io/Portfolio.github.io/https://jhonniergs.github.io/Portfolio.github.io/](https://jhonniergs.github.io/Portfolio.github.io/https://jhonniergs.github.io/Portfolio.github.io/)
+
+- 💬 Preguntame sobre **Animaciones en CSS o Arquitectura HTML**
+
+- 📫Como llegar a mi **gs.170590@gmail.com**
+
+- ⚡ **Me divierto haciendo código mientras escucho música, hablando de música, me en cata tocar guitarra y piano, me fascina crear animaciones con CSS, crear layouts visualmente atractivos y dinámicos. Megusta jugar video juegos y ver animes esto ayuda mucho a mi imaginacion**
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
 
 
