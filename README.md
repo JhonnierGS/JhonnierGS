@@ -1,7 +1,7 @@
 <p>
   <img src="https://user-images.githubusercontent.com/64991337/109062875-7f7dac00-76b6-11eb-8d2b-bc008e2ee861.gif">
  </p> 
-<h1 align="center">¡Hey 👋!, Soy JhonnierGS👨‍💻</h1>
+<h1 align="center">¡ey 👋!, Soy JhonnierGS👨‍💻</h1>
 <h3 align="center">Soy <b>Desarrollador Front-End</b></h3>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/64991337/108940376-3deef180-7621-11eb-866f-60d68ee66dbc.gif" width="50px" height="70px">
