@@ -28,7 +28,7 @@
 
 - 📫Como llegar a mi **gs.170590@gmail.com**
 
-- ⚡ **Me divierto haciendo código mientras escucho música, hablando de música, me en cata tocar guitarra y piano, me fascina crear animaciones con CSS, crear layouts visualmente atractivos y dinámicos. Megusta jugar video juegos y ver animes esto ayuda mucho a mi imaginacion**
+- ⚡ **Me divierto haciendo código mientras escucho música, hablando de música, me encata tocar guitarra y piano, me fascina crear animaciones con CSS, crear layouts visualmente atractivos y dinámicos. Megusta jugar video juegos y ver animes esto ayuda mucho a mi imaginacion**
 
 
 <h3 align="left">Languages and Tools:</h3>
