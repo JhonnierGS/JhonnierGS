@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/jonathan-andres-gonzalez-saenz-/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jonathan-andres-gonzalez-saenz-/" height="30" width="40" /></a>
 </p>
 
-<h2>🖱Un desarrollador frontend apasionado de Colombia</h2>
+<h2>🖲 Un desarrollador frontend apasionado de Colombia</h2>
 
 - 🔭 Actualmente estoy trabajando en [Negocios de abogados](https://jhonniergs.github.io/Negocios-de-abogados/)
 
