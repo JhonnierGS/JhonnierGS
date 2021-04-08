@@ -22,7 +22,7 @@
 
 - 🤝 Estoy buscando ayuda con **asincronismo en JS**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://jhonniergs.github.io/Portfolio.github.io/https://jhonniergs.github.io/Portfolio.github.io/](https://jhonniergs.github.io/Portfolio.github.io/https://jhonniergs.github.io/Portfolio.github.io/)
+- 👨‍💻 Todos mis proyectos están disponibles en [https://jhonniergs.github.io/Portfolio.github.io/https://jhonniergs.github.io/Portfolio.github.io/](https://jhonniergs.github.io/Portfolio.github.io)
 
 - 💬 Preguntame sobre **Animaciones en CSS o Arquitectura HTML**
 
