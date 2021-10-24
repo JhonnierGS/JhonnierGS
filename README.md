@@ -14,13 +14,13 @@
 
 <h2>🖲 Un desarrollador frontend apasionado de Colombia</h2>
 
-- 🔭 Actualmente estoy trabajando en [Negocios de abogados](https://jhonniergs.github.io/Negocios-de-abogados/)
+- 🔭 Actualmente estoy trabajando en [AKElab.org](http://www.akelab.org/)
 
-- 🌱 Actualmente estoy aprendiendo **React.JS, Webpack, React Router y Redux**
+- 🌱 Actualmente estoy aprendiendo **React.JS, Webpack y Redux**
 
 - 👯 Estoy buscando colaborar en **En algun proyecto que requiera de animaciones con CSS**
 
-- 🤝 Estoy buscando ayuda con **asincronismo en JS**
+- 🤝 Estoy buscando ayuda con **Redux**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://jhonniergs.github.io/Portfolio.github.io/https://jhonniergs.github.io/Portfolio.github.io/](https://jhonniergs.github.io/Portfolio.github.io)
 
