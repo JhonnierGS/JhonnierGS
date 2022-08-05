@@ -14,17 +14,17 @@
 
 <h2>🖲 Un desarrollador frontend apasionado de Colombia</h2>
 
-- 🔭 Actualmente estoy trabajando en [AKElab.org](http://www.akelab.org/)
+- 🔭 Actualmente estoy trabajando en [Code-Labs](https://www.code-labs.com/)
 
 - 🌱 Actualmente estoy aprendiendo **React.JS, Webpack y Redux**
 
 - 👯 Estoy buscando colaborar en **En algun proyecto que requiera de animaciones con CSS**
 
-- 🤝 Estoy buscando ayuda con **Redux**
+- 🤝 Estoy buscando ayuda con **node.js**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://jhonniergs.github.io/Portfolio.github.io/https://jhonniergs.github.io/Portfolio.github.io/](https://jhonniergs.github.io/Portfolio.github.io)
+- 👨‍💻 Todos mis proyectos están disponibles en [https://jhonniergs.github.io/portfolioGS/](https://jhonniergs.github.io/portfolioGS/)
 
-- 💬 Preguntame sobre **Animaciones en CSS o Arquitectura HTML**
+- 💬 Preguntame sobre **Animaciones en CSS, Arquitectura HTML y Javascript Vanilla**
 
 - 📫Como llegar a mi **gs.170590@gmail.com**
 
