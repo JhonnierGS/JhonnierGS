@@ -16,9 +16,9 @@
 
 - 🔭 Actualmente estoy trabajando en [Code-Labs](https://www.code-labs.com/)
 
-- 🌱 Actualmente estoy aprendiendo **React.JS, Webpack y Redux**
+- 🌱 Actualmente estoy aprendiendo **React.JS, Vite y Redux**
 
-- 👯 Estoy buscando colaborar en **En algun proyecto que requiera de animaciones con CSS**
+- 👯 Estoy buscando colaborar en **En algun proyecto que requiera de animaciones con CSS, proyectos con React.js**
 
 - 🤝 Estoy buscando ayuda con **node.js**
 
@@ -28,7 +28,7 @@
 
 - 📫Como llegar a mi **gs.170590@gmail.com**
 
-- ⚡ **Me divierto haciendo código mientras escucho música, hablando de música, me encata tocar guitarra y piano, me fascina crear animaciones con CSS, crear layouts visualmente atractivos y dinámicos. Megusta jugar video juegos y ver animes esto ayuda mucho a mi imaginacion**
+- ⚡ **Me divierto haciendo código mientras escucho música, hablando de música, me encata tocar guitarra, me fascina crear animaciones, transiciones y estylos con CSS, crear layouts visualmente atractivos y dinámicos. Megusta jugar video juegos y ver animes esto ayuda mucho a mi imaginacion**
 
 
 <h3 align="left">Languages and Tools:</h3>
