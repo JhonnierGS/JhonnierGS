@@ -16,7 +16,7 @@
 
 - 🔭 Actualmente estoy trabajando en [Code-Labs](https://www.code-labs.com/)
 
-- 🌱 Actualmente estoy aprendiendo **React.JS, Vite y Redux**
+- 🌱 Actualmente estoy aprendiendo **TypeScript, Angular, Node.js**
 
 - 👯 Estoy buscando colaborar en **En algun proyecto que requiera de animaciones con CSS, proyectos con React.js**
 
@@ -24,7 +24,7 @@
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://jhonniergs.github.io/portfolioGS/](https://jhonniergs.github.io/portfolioGS/)
 
-- 💬 Preguntame sobre **Animaciones en CSS, Arquitectura HTML y Javascript Vanilla**
+- 💬 Preguntame sobre **Animaciones o transiciones en CSS, Arquitectura HTML y Javascript Vanilla**
 
 - 📫Como llegar a mi **gs.170590@gmail.com**
 
